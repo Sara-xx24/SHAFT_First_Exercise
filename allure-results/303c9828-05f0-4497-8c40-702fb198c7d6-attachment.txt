@@ -1,0 +1,39 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                Test Method: 'AddtocartTest.addToCartValidation'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "http://www.automationpractice.pl/index.php" @07-11-2024 01:12:19.0883 AM
+[ReportManager] Initial URL: "about:blank" @07-11-2024 01:12:21.0384 AM
+[ReportManager] Navigate to url "http://www.automationpractice.pl/index.php". @07-11-2024 01:12:26.0842 AM
+[ReportManager] Click "Sign in" @07-11-2024 01:12:30.0135 AM
+[ReportManager] Type "Email address" @07-11-2024 01:12:31.0025 AM
+[ReportManager] Click "By.xpath: //i[@class="icon-user left"]" @07-11-2024 01:12:31.0175 AM
+[ReportManager] Click "Mrs." @07-11-2024 01:12:32.0172 AM
+[ReportManager] Type "First name *" @07-11-2024 01:12:32.0414 AM
+[ReportManager] Type "Last name *" @07-11-2024 01:12:32.0751 AM
+[ReportManager] Type "Password *" @07-11-2024 01:12:33.0046 AM
+[ReportManager] Click "Sign up for our newsletter!" @07-11-2024 01:12:33.0188 AM
+[ReportManager] Click "Register " @07-11-2024 01:12:39.0463 AM
+[ReportManager] Click "Search" @07-11-2024 01:12:39.0666 AM
+[ReportManager] Type "Search" @07-11-2024 01:12:39.0899 AM
+[ReportManager] Click "" @07-11-2024 01:12:41.0308 AM
+[ReportManager] Click "More" @07-11-2024 01:12:47.0394 AM
+[ReportManager] Click "White" @07-11-2024 01:12:47.0647 AM
+[ReportManager] Click " Add to cart" @07-11-2024 01:12:47.0888 AM
+[ReportManager] Verify that the element located by "By.xpath: //span[@id="layer_cart_product_attributes"]" text is equal to "S, White". @07-11-2024 01:12:47.0968 AM
+[ReportManager] Expected "S, White", and actual "S, White" @07-11-2024 01:12:48.0397 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_01-12-51-738_07112024' @07-11-2024 01:12:51.0745 AM
+[ReportManager] Expected "S, White", and actual "S, White" @07-11-2024 01:12:51.0746 AM
+[ReportManager] Verification passed @07-11-2024 01:12:51.0747 AM
+[ReportManager] Verify that the element located by "By.xpath: //span[@id="layer_cart_product_quantity"]" text is equal to "1". @07-11-2024 01:12:51.0787 AM
+[ReportManager] Expected "1", and actual "1" @07-11-2024 01:12:51.0915 AM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_01-12-54-353_07112024' @07-11-2024 01:12:54.0364 AM
+[ReportManager] Expected "1", and actual "1" @07-11-2024 01:12:54.0365 AM
+[ReportManager] Verification passed @07-11-2024 01:12:54.0365 AM
+[ReportManager] Assert that the element located by "By.xpath: //span[@id="layer_cart_product_price"]" text is equal to "$27". @07-11-2024 01:12:54.0394 AM
+[ReportManager] Expected "$27", and actual "$27" @07-11-2024 01:12:54.0525 AM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_01-12-55-168_07112024' @07-11-2024 01:12:55.0173 AM
+[ReportManager] Expected "$27", and actual "$27" @07-11-2024 01:12:55.0174 AM
+[ReportManager] Assertion passed @07-11-2024 01:12:55.0174 AM

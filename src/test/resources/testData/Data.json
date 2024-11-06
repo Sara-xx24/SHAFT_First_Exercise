@@ -1,0 +1,13 @@
+{ "user": {
+  "url": "http://www.automationpractice.pl/index.php",
+  "email" : "www.aliamin2026@gmail.com",
+  "first" : "sara",
+  "last": "aly",
+  "password": "123456",
+  "product": "Blouse white",
+  "expected1": "S, White",
+  "expected2": "1",
+  "expected3": "$27"
+}
+
+}
